@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <payment>
+            <ccavenue>
+                <title>CCAvenue</title>
+                <active>1</active>
+                <model>Magekmf\Ccavenue\Model\Ccavenue</model>
+                <order_status>pending</order_status>
+                <allowspecific>0</allowspecific>
+            </ccavenue>
+        </payment>
+    </default>
+</config>
