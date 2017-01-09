@@ -1,6 +1,6 @@
 {
     "name": "magekmf/ccavenue",
-    "description": "CCAvenue Payment Integration",
+    "description": "Magento 2.1 CCAvenue Payment Integration",
     "require": {
         "php": "~5.6.5|7.0.2|7.0.4|~7.0.6",
         "magento/module-checkout": "100.1.*",
